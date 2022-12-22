@@ -1,0 +1,9 @@
+.list {
+  list-style-type: none;
+}
+
+.thumbnail-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

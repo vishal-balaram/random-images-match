@@ -1,0 +1,15 @@
+.category-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.bottom-border {
+  color: #fec653;
+  border-bottom: 3px solid #fec653;
+}
